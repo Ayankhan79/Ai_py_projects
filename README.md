@@ -1,6 +1,7 @@
-# Artificial Intelligence & Machine Learning
+# Artificial Intelligence & Machine Learning Projects
 
-# Objective: Learning Through Real Life Projects and it's Use Cases.
+Objective: Learning Through Real Life Projects and it's Use Cases.
+
 
 # Projects:
 1.
